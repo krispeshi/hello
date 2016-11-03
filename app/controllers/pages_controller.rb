@@ -4,4 +4,8 @@ class PagesController < ApplicationController
 
   def contakt
   end
+  
+   def about
+   end
+  
 end
